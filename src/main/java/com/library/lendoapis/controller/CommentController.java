@@ -1,7 +1,6 @@
 package com.library.lendoapis.controller;
 
 import com.library.lendoapis.service.CommentService;
-import com.library.lendoapis.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
